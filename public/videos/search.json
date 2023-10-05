@@ -1,6 +1,6 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "XsC1KaHOFCHQd3h1QA9uBpihZgo",
+  "etag": "KJaF0_8ioyxQlvUBPj4SfxTuV7U",
   "nextPageToken": "CBkQAA",
   "regionCode": "KR",
   "pageInfo": {
@@ -10,846 +10,852 @@
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "F7Menu7dSTR_YGQb4gBepTu7nEo",
+      "etag": "sLCOefK0WLy2mPq9tumkpnNOjVA",
       "id": {
         "kind": "youtube#video",
-        "videoId": "iwmRYXRZi9o"
+        "videoId": "OTWYsXF99iY"
       },
       "snippet": {
-        "publishedAt": "2023-10-03T17:00:26Z",
-        "channelId": "UCjIuqG1hCxUdLLxOD_uR0vQ",
-        "title": "Surfing Rocky Point Opening Day 2023 (4K RAW)",
-        "description": "Filmed on October 2, 2023 at Rocky Point on the North Shore of Oahu in Hawai'i. Watch as local surfers surf Rocky Point.",
+        "publishedAt": "2022-09-24T11:30:05Z",
+        "channelId": "UCg-p3lQIqmhh7gHpyaOmOiQ",
+        "title": "British Highschoolers try School Lunch in Korea!!",
+        "description": "While visiting Korea and having the time of their lives, we also wanted to give the boys an experience of what the lives of High ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/iwmRYXRZi9o/default.jpg",
+            "url": "https://i.ytimg.com/vi/OTWYsXF99iY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/iwmRYXRZi9o/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/OTWYsXF99iY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/iwmRYXRZi9o/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/OTWYsXF99iY/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Surfers of Hawaii",
+        "channelTitle": "영국남자 Korean Englishman",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-10-03T17:00:26Z"
+        "publishTime": "2022-09-24T11:30:05Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "G8650Yxq99h-gN_WrhK_YvyMdMs",
+      "etag": "JXvNUyqCr1dsDul2c9Z1oJhO-hQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "ma67yOdMQfs"
+        "videoId": "xNkMbGrUdqU"
       },
       "snippet": {
-        "publishedAt": "2021-01-23T17:00:15Z",
-        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
-        "title": "These Were The All-Time Surfing Moments Of The Year | Best Of 2020",
-        "description": "Well, that was a weird ride. Though it hasn't been easy, at least when we fixed our gaze on the ocean — or favorite place in the ...",
+        "publishedAt": "2022-09-23T14:38:06Z",
+        "channelId": "UCpjOmwiy88a9EV3Rv8ukJgw",
+        "title": "대한민국 VS 코스타리카 : 하나은행 초청 축구국가대표팀 친선경기 하이라이트 - 2022.09.23",
+        "description": "대한민국 VS 코스타리카 : 하나은행 초청 축구국가대표팀 친선경기 하이라이트 - 2022.09.23 #대한축구협회 공식 채널 대한민국 축구 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ma67yOdMQfs/default.jpg",
+            "url": "https://i.ytimg.com/vi/xNkMbGrUdqU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ma67yOdMQfs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xNkMbGrUdqU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ma67yOdMQfs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xNkMbGrUdqU/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Red Bull Surfing",
+        "channelTitle": "KFATV_대한민국 축구 국가대표팀",
         "liveBroadcastContent": "none",
-        "publishTime": "2021-01-23T17:00:15Z"
+        "publishTime": "2022-09-23T14:38:06Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "BwSxGyYttvBX7nmupvqRUkwIEQM",
+      "etag": "yteWjK0XHj2lht_OqEfGI3-pq00",
       "id": {
         "kind": "youtube#video",
-        "videoId": "iQmYlv40_go"
+        "videoId": "IrRFh1dLRQM"
       },
       "snippet": {
-        "publishedAt": "2023-10-04T19:18:59Z",
-        "channelId": "UCFdhu2ZZ7GBbGliV8tZ0UJw",
-        "title": "POV SURF INTENSE MOROCCAN RIDE (Morocco #14)",
-        "description": "POV Surfing a nice little moroccan pointbreak. Our friend Mehdi told us to go somewhere... we drove for two hours and found this ...",
+        "publishedAt": "2022-09-23T13:40:20Z",
+        "channelId": "UCjn-VbcIkAeXQKCmLJV8YwQ",
+        "title": "코스타리카전 하이라이트 | 2022 축구 국가대표 평가전 대한민국 vs 코스타리카 하이라이트 | 디지털 독점 생중계 | 쿠팡플레이 | 쿠팡",
+        "description": "대한민국 2 - 2 코스타리카 2022 축구 국가대표 평가전 하이라이트 더 보고 싶다면? 지금 쿠팡플레이에서 확인하기!",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/iQmYlv40_go/default.jpg",
+            "url": "https://i.ytimg.com/vi/IrRFh1dLRQM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/iQmYlv40_go/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/IrRFh1dLRQM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/iQmYlv40_go/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/IrRFh1dLRQM/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Kai Noa",
+        "channelTitle": "쿠팡플레이 Coupang Play",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-10-04T19:18:59Z"
+        "publishTime": "2022-09-23T13:40:20Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "zROYSF8xH18lFWrWv1tuSJofcbs",
+      "etag": "BIEhp-00sfG0HabrdNAj83L5bYM",
       "id": {
         "kind": "youtube#video",
-        "videoId": "eSWST13stO4"
+        "videoId": "mPq9PAZM43M"
       },
       "snippet": {
-        "publishedAt": "2022-03-27T15:00:32Z",
-        "channelId": "UCVo06dBGK9VBBhq15wJxZHQ",
-        "title": "🔵4k (ASMR) 10 Hour Store Loop - Hawaii Surfing - With Relaxing Music☑️",
-        "description": "Waves of the World Filmers: Chris Kincade: https://www.instagram.com/chriskincade.wotw Andre Botha: ...",
+        "publishedAt": "2022-09-23T13:57:34Z",
+        "channelId": "UCY_WNRa7H0P420fJkOFovtQ",
+        "title": "South Korea vs Costa Rica 2-2 ( Friendlies ) 23/09/2022",
+        "description": "South Korea vs Costa Rica 2-2 ( Friendlies ) 23/09/2022 1-0 H. Hee-chan 28' 2-0 J. Bennette 41' 2-1 J. Bennette 64' 2-2 S.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/eSWST13stO4/default.jpg",
+            "url": "https://i.ytimg.com/vi/mPq9PAZM43M/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/eSWST13stO4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mPq9PAZM43M/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/eSWST13stO4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mPq9PAZM43M/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Waves of the World",
+        "channelTitle": "DEL PIERO 10",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-03-27T15:00:32Z"
+        "publishTime": "2022-09-23T13:57:34Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "7jH7r6i1sf20uhuWUUnUr7b0FGQ",
+      "etag": "0TAGfPgdMc6n8zlJxeXJ-wM6CBw",
       "id": {
         "kind": "youtube#video",
-        "videoId": "xtHZKToMvus"
+        "videoId": "Ko1bqasNDls"
       },
       "snippet": {
-        "publishedAt": "2022-11-02T17:46:49Z",
-        "channelId": "UCTYHNSWYy4jCSCj1Q1Fq0ew",
-        "title": "Interlusion | A Billabong Surf Film Shot in the Mentawai Islands",
-        "description": "Welcome to the Interlusion. What happens when the best surf trip of former world champ Joel Parkinson's life happens years after ...",
+        "publishedAt": "2018-12-16T12:47:18Z",
+        "channelId": "UCFMkPeE8jiPirJMv9kttuIg",
+        "title": "South Korea 4K. Interesting Facts About South Korea",
+        "description": "South Korea is one of the most developed countries today. Lets take a tour of Korea and see modern Korean cities. Seoul, Busan ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/xtHZKToMvus/default.jpg",
+            "url": "https://i.ytimg.com/vi/Ko1bqasNDls/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/xtHZKToMvus/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Ko1bqasNDls/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/xtHZKToMvus/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Ko1bqasNDls/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Billabong",
+        "channelTitle": "CoolVision",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-11-02T17:46:49Z"
+        "publishTime": "2018-12-16T12:47:18Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "2Y2dq213L-4QP8lROwc-O4v7qF8",
+      "etag": "-WBBf5ZALtk3cXr0FsaI5CPciVk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Zri_c8vgh1I"
+        "videoId": "Y_KWTkEqG2o"
       },
       "snippet": {
-        "publishedAt": "2023-10-04T16:29:08Z",
-        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
-        "title": "WATCH LIVE EDP Vissla Pro Ericeira presented by Estrella Galicia - Day 3",
-        "description": "There are just two events left in the battle for Championship Tour qualification. With chances running out, the Challenger Series' ...",
+        "publishedAt": "2022-09-25T20:07:51Z",
+        "channelId": "UCKJtYrlWaF3G0LIneEKoPew",
+        "title": "Night Shift With the Hardest Tournament In Korea | Uprising Korea 2022: The ATP Fight Companion",
+        "description": "TEKKEN7 #Aris #TWT2022 Aris had to tap out due to the time, check out Top 3 on https://www.twitch.tv/videos/1600697972 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Zri_c8vgh1I/default.jpg",
+            "url": "https://i.ytimg.com/vi/Y_KWTkEqG2o/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Zri_c8vgh1I/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Y_KWTkEqG2o/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Zri_c8vgh1I/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Y_KWTkEqG2o/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "World Surf League",
+        "channelTitle": "Avoiding The Puddle",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-10-04T16:29:08Z"
+        "publishTime": "2022-09-25T20:07:51Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "YAqBu7dcJsjP96u86ImCDNl2k4E",
+      "etag": "WMrM2ghOy8F-mEdAiP1lX0p0dek",
       "id": {
         "kind": "youtube#video",
-        "videoId": "g27xs2UC6co"
+        "videoId": "cXX5J3rHjHk"
       },
       "snippet": {
-        "publishedAt": "2023-09-15T21:02:08Z",
-        "channelId": "UCm9NnEJTi7_B86QWgQiUCJA",
-        "title": "SURFING NEW WAVES IN INDONESIA!!",
-        "description": "WILD WEIRD WAVES IN INDONESIA BY MOTOBIKE!! THE WEEKLY VLOGS KEEP COMING!!! SUBSCRIBE TO THE CHANNEL ...",
+        "publishedAt": "2022-09-25T03:09:45Z",
+        "channelId": "UCtKKtyxOmmt60A2-pp0B1cw",
+        "title": "There are some things about Korea in the Tower of London?, Tower of London, Queen, AMWF, Couple",
+        "description": "toweroflondon #queenelizabeth #amwf.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/g27xs2UC6co/default.jpg",
+            "url": "https://i.ytimg.com/vi/cXX5J3rHjHk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/g27xs2UC6co/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cXX5J3rHjHk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/g27xs2UC6co/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cXX5J3rHjHk/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Koa Smith",
+        "channelTitle": "브리티쉬 새댁 : BRITISH WIFE",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-15T21:02:08Z"
+        "publishTime": "2022-09-25T03:09:45Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "sxgUjOhcMF34i3s502HDQdkVNbM",
+      "etag": "VhPanuQC4a0QcSr88ZmWldTTvnE",
       "id": {
         "kind": "youtube#video",
-        "videoId": "VD5IMdpDMUY"
+        "videoId": "poHTA94-BeY"
       },
       "snippet": {
-        "publishedAt": "2023-08-01T18:31:12Z",
-        "channelId": "UCwMV2FVARycp5_p665_eyZg",
-        "title": "REPEATER || A QUIKSILVER SURF FILM",
-        "description": "Repeater is the new surf movie by Quiksilver with surfing by Mikey Wright, Rolo Montes, Griffin Colapinto, Kael Walsh, Al Cleland ...",
+        "publishedAt": "2022-09-21T15:00:28Z",
+        "channelId": "UCn8zNIfYAQNdrFRrr8oibKw",
+        "title": "What North Korea Doesn’t Want You To See | Super Users",
+        "description": "Blogger Jacob Bogle often receives this warning, “State-sponsored actors are attempting to hack into your account.” It's all ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/VD5IMdpDMUY/default.jpg",
+            "url": "https://i.ytimg.com/vi/poHTA94-BeY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/VD5IMdpDMUY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/poHTA94-BeY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/VD5IMdpDMUY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/poHTA94-BeY/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Quiksilver",
+        "channelTitle": "VICE",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-08-01T18:31:12Z"
+        "publishTime": "2022-09-21T15:00:28Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "3exRlwFdDkM8JgIwTrBb_lALKnw",
+      "etag": "rGmZBOTYAjhr2P9WvyJ0nH9N-dU",
       "id": {
         "kind": "youtube#video",
-        "videoId": "zZqxPozl2Ec"
+        "videoId": "yICHjopBVT0"
       },
       "snippet": {
-        "publishedAt": "2023-01-24T07:00:09Z",
-        "channelId": "UCEUYW6zm6KnUxPcwY1D8HsQ",
-        "title": "Surfing Massive Waves Waimea Bay (Jan 22, 2023)  4K",
-        "description": "What occurred on January 22, 2023, at Waimea Bay on the North Shore of Oahu is nothing short of historical. We're simply doing ...",
+        "publishedAt": "2022-09-23T13:40:34Z",
+        "channelId": "UC83jt4dlz1Gjl58fzQrrKZg",
+        "title": "US aircraft carrier arrives at naval base in South Korea&#39;s Busan",
+        "description": "US aircraft carrier USS Ronald Reagan has arrived at a naval base in South Korea's southern port city of Busan. Officials in Seoul ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/zZqxPozl2Ec/default.jpg",
+            "url": "https://i.ytimg.com/vi/yICHjopBVT0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/zZqxPozl2Ec/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/yICHjopBVT0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/zZqxPozl2Ec/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/yICHjopBVT0/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Eimy’s Hawaii Happy life 🏄🏻",
+        "channelTitle": "CNA",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-01-24T07:00:09Z"
+        "publishTime": "2022-09-23T13:40:34Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "iYt9sKjxm3HZBarsmNb107W8_Nc",
+      "etag": "47b4-JmLcO11LACaUuRS7IK72K4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "a48-c7kCdYI"
+        "videoId": "udtN3czhkA8"
       },
       "snippet": {
-        "publishedAt": "2023-08-31T08:00:08Z",
-        "channelId": "UCoicMEw3njXscfwHlaAJVcQ",
-        "title": "SURFING A GLASSY REEF BREAK! (4K POV)",
-        "description": "In this video, we went and surfed one of our favourite reef breaks! It got super glassy Then we went for a skate at the bowl For ...",
+        "publishedAt": "2022-09-24T23:00:31Z",
+        "channelId": "UCa-DreapaYm4Roo0CfUBGQg",
+        "title": "bye seoul ✨ a day of my life in korea ☕ cafe hopping in daejeon, a little trip out of seoul vlog",
+        "description": "Head to https://squarespace.com/caricakes to save 10% off your first purchase of a website or domain using code CARICAKES ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/a48-c7kCdYI/default.jpg",
+            "url": "https://i.ytimg.com/vi/udtN3czhkA8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/a48-c7kCdYI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/udtN3czhkA8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/a48-c7kCdYI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/udtN3czhkA8/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Surfing With Noz",
+        "channelTitle": "cari cakes",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-08-31T08:00:08Z"
+        "publishTime": "2022-09-24T23:00:31Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "VGdKl4E6UdngNMTd2bIMKap4u34",
+      "etag": "g9BlAPsYE79_C_3JgqCGB_AEpWQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "RI8E5rcfBn4"
+        "videoId": "3P1CnWI62Ik"
       },
       "snippet": {
-        "publishedAt": "2023-04-27T23:00:12Z",
-        "channelId": "UCH4NSjkEFF_wyLhc60eevhg",
-        "title": "Paster — Surfing",
-        "description": "Official music video of \"Surfing\" by Paster Subscribe on Synaps Records YouTube channel: https://mikpro.az/synapsrecordsyt ...",
+        "publishedAt": "2020-07-30T05:46:28Z",
+        "channelId": "UChhOtjq-3QyyLmP2jv9amrg",
+        "title": "Feel the Rhythm of KOREA: SEOUL",
+        "description": "Enjoy wonderful attractions of South Korea with a lively, rhythmic sound! Korean Tourism Organization collaborated with an ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/RI8E5rcfBn4/default.jpg",
+            "url": "https://i.ytimg.com/vi/3P1CnWI62Ik/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/RI8E5rcfBn4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3P1CnWI62Ik/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/RI8E5rcfBn4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3P1CnWI62Ik/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Synaps Records",
+        "channelTitle": "Imagine Your Korea",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-04-27T23:00:12Z"
+        "publishTime": "2020-07-30T05:46:28Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "1MvjA2Nbt0xIh6wCDG0kmYB0-hU",
+      "etag": "ru_YTz8hyk0F8R8wB7T09knh_jI",
       "id": {
         "kind": "youtube#video",
-        "videoId": "G_H22Ukgysw"
+        "videoId": "4uqoz7xIf6o"
       },
       "snippet": {
-        "publishedAt": "2023-10-03T07:00:11Z",
-        "channelId": "UCoicMEw3njXscfwHlaAJVcQ",
-        "title": "SURFING A SKETCHY REEF BREAK AT DEAD LOW TIDE! (RAW POV) | EPISODE #5",
-        "description": "This is Episode 5/10 of the Novelty Reef Series. It features myself, Duke and a sh*t tonne of surfing the past few months at this sick ...",
+        "publishedAt": "2022-09-23T12:58:56Z",
+        "channelId": "UCydi_iDuARZqbC0vYpGhfsQ",
+        "title": "South Korea vs Costa Rica 2-2 Extеndеd Hіghlіghts &amp; Gоals 2022 HD",
+        "description": "Korea#CostaRica#SoonGoal.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/G_H22Ukgysw/default.jpg",
+            "url": "https://i.ytimg.com/vi/4uqoz7xIf6o/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/G_H22Ukgysw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4uqoz7xIf6o/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/G_H22Ukgysw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4uqoz7xIf6o/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Surfing With Noz",
+        "channelTitle": "tahahahahahbarame",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-10-03T07:00:11Z"
+        "publishTime": "2022-09-23T12:58:56Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "5t4RdcaIDZTfZaUOMdEuQsmWMSs",
+      "etag": "GbelpdHsiy3KHvkC7zhm4QQWdzg",
       "id": {
         "kind": "youtube#video",
-        "videoId": "pmlzdeZuAk8"
+        "videoId": "UDlWtkvFYLU"
       },
       "snippet": {
-        "publishedAt": "2021-02-27T14:28:13Z",
-        "channelId": "UCxkIzPnPzWLz4IeuxIROflg",
-        "title": "What Surfing Is ACTUALLY Like as a Beginner",
-        "description": "See what it's actually like to surf as a beginner, including why it's fun and why it kind of sucks at times! Click below to join the ...",
+        "publishedAt": "2022-09-24T23:18:39Z",
+        "channelId": "UCO0akufu9MOzyz3nvGIXAAw",
+        "title": "North Korea fires ballistic missile towards the Sea of Japan",
+        "description": "South Korea's Joint Chiefs of Staff have announced North Korea has fired an unspecified ballistic missile towards the sea of ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/pmlzdeZuAk8/default.jpg",
+            "url": "https://i.ytimg.com/vi/UDlWtkvFYLU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/pmlzdeZuAk8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/UDlWtkvFYLU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/pmlzdeZuAk8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/UDlWtkvFYLU/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Travis Marziani",
+        "channelTitle": "Sky News Australia",
         "liveBroadcastContent": "none",
-        "publishTime": "2021-02-27T14:28:13Z"
+        "publishTime": "2022-09-24T23:18:39Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "b3QS5CdyZETDZSuihjkB0TSsJ7g",
+      "etag": "YAH595UCgwnGgeFIzORsPSGF1Z8",
       "id": {
         "kind": "youtube#video",
-        "videoId": "ZwGi20vxCx0"
+        "videoId": "eVFMDMpY36o"
       },
       "snippet": {
-        "publishedAt": "2023-09-29T11:00:23Z",
-        "channelId": "UCzcQOTuXYGuCvTekySb_CeQ",
-        "title": "Local Knowledge On Show (Opening Scene) – Keramas",
-        "description": "Balinese surfer Tonyo knows the Keramas lineup better than most, as you can see from the opening scene of this video – getting ...",
+        "publishedAt": "2020-11-21T04:43:42Z",
+        "channelId": "UCkIom4UP_2D0DXuG92vd_KQ",
+        "title": "【Seoul】 Travel Guide - Top 10 Seoul | Korea Travel | Asia Travel | Travel at home",
+        "description": "Follow us to the most beautiful places in Seoul! Have an amazing trip at home. In this video, we'll cover more than Top ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ZwGi20vxCx0/default.jpg",
+            "url": "https://i.ytimg.com/vi/eVFMDMpY36o/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ZwGi20vxCx0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/eVFMDMpY36o/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ZwGi20vxCx0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/eVFMDMpY36o/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Surfers of Bali",
+        "channelTitle": "Before Your Trip",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-29T11:00:23Z"
+        "publishTime": "2020-11-21T04:43:42Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "JYDRvaipmZE1ejpGAYdkjfYFiTg",
+      "etag": "rAcCkuleJdI7Kwgus5cR7yUnVyo",
       "id": {
         "kind": "youtube#video",
-        "videoId": "ZTt1anPAd2c"
+        "videoId": "rXDoqD7FjQw"
       },
       "snippet": {
-        "publishedAt": "2023-09-29T20:24:51Z",
-        "channelId": "UCf5CA0OsvhhU-6AcSjT1oKQ",
-        "title": "GNARLIEST BACKWASH AND ZIPPER WAVES !!! Top 100!",
-        "description": "The gnarliest backwash and zipper waves captured over the years throughout Southern California! Oddly satisfying flares and ...",
+        "publishedAt": "2022-09-22T16:33:25Z",
+        "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+        "title": "WION Fineprint | North Korea denies sending arms to Russia amid Ukraine war",
+        "description": "North Korea denied sending weapons to Russia, accusing the United States of spreading rumours about such a sale to tarnish ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ZTt1anPAd2c/default.jpg",
+            "url": "https://i.ytimg.com/vi/rXDoqD7FjQw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ZTt1anPAd2c/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/rXDoqD7FjQw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ZTt1anPAd2c/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/rXDoqD7FjQw/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "BEEFS T.V.",
+        "channelTitle": "WION",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-29T20:24:51Z"
+        "publishTime": "2022-09-22T16:33:25Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "I41z5LwPryk3GuJx1aJ6wfpkvew",
+      "etag": "ybHTGc970cUMrjeGLj8LSnXOzbA",
       "id": {
         "kind": "youtube#video",
-        "videoId": "mERNMTuFLjw"
+        "videoId": "X5q0Fd_KV1w"
       },
       "snippet": {
-        "publishedAt": "2023-09-12T23:00:30Z",
-        "channelId": "UCEL_DcAbuwV1Pgux_eSm3HQ",
-        "title": "CARILLON // An Album Surf Short Film",
-        "description": "Album surf presents, “CARILLON” a short film featuring Asher Pacey. A week spent on the Surf Coast, Victoria. Filmed and Edited ...",
+        "publishedAt": "2022-09-23T11:09:06Z",
+        "channelId": "UC925y3Dn61A7MBXGZJWNX9A",
+        "title": "MOVING IN KOREA (+ grocery shopping)",
+        "description": "BGM sources BGM President https://www.youtube.com/c/bgmpresident 별 헤는 다락방 Starry Attic ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/mERNMTuFLjw/default.jpg",
+            "url": "https://i.ytimg.com/vi/X5q0Fd_KV1w/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/mERNMTuFLjw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/X5q0Fd_KV1w/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/mERNMTuFLjw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/X5q0Fd_KV1w/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Album Surf",
+        "channelTitle": "KrisTells Vlogs",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-12T23:00:30Z"
+        "publishTime": "2022-09-23T11:09:06Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "_EgzoQ0YzyHS5UF7U0bRHYGWyco",
+      "etag": "Fko1jl6ZczSFvLyX69dkEe9R4nI",
       "id": {
         "kind": "youtube#video",
-        "videoId": "9sjQCXGNp4c"
+        "videoId": "OIGBoo2QbFM"
       },
       "snippet": {
-        "publishedAt": "2023-09-25T17:44:28Z",
-        "channelId": "UC6uX6GF5q2JxLjMkyivM2Og",
-        "title": "SOLO SURFING ONE TERRIFYING WAVE, THE SLAB TOUR RESUMES PT 12!",
-        "description": "YOUTUBE VIDS CONTINUE WEEKLY AS ALWAYS MY FRIENDS PLEASE SUBSCRIBE to help SUPPORT the channel!",
+        "publishedAt": "2022-09-23T09:15:00Z",
+        "channelId": "UC91JExDefknFHQ5Lqp-g_Jg",
+        "title": "[ENG] 무슨 노래 듣고 계세요? 고려대편 What Song Are You listening To? Korea University",
+        "description": "고려대학교에서 사람들에게 물어봤습니다. \"무슨 노래 듣고 계세요?\" *본 영상에서 인터뷰에 응해주신 모든 분들께는 유튜브 촬영 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/9sjQCXGNp4c/default.jpg",
+            "url": "https://i.ytimg.com/vi/OIGBoo2QbFM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/9sjQCXGNp4c/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/OIGBoo2QbFM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/9sjQCXGNp4c/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/OIGBoo2QbFM/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Nathan Florence",
+        "channelTitle": "복코s",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-25T17:44:28Z"
+        "publishTime": "2022-09-23T09:15:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Jvp-1uW0NgCeV_fU3OuxOSKJXis",
+      "etag": "dNwGFbxrh_ZK1kG7ax2X3Byi57I",
       "id": {
         "kind": "youtube#video",
-        "videoId": "x_k-KqUF-MU"
+        "videoId": "jejLBWMsyHk"
       },
       "snippet": {
-        "publishedAt": "2023-09-30T22:03:28Z",
-        "channelId": "UCo3jL24p7R40vAD0TvZtTTA",
-        "title": "We Tried Surfing Japan’s New High-Tech Wave Pool",
-        "description": "If you're struggling, consider therapy with our sponsor BetterHelp. Click https://betterhelp.com/sickos for a 10% discount on your ...",
+        "publishedAt": "2022-07-27T13:28:04Z",
+        "channelId": "UCg-p3lQIqmhh7gHpyaOmOiQ",
+        "title": "Pack your bags boys! You&#39;re going to KOREA!!!",
+        "description": "A year after a handshake and a promise… the British High schoolers are finally coming on a School Trip to Korea! 7 students.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/x_k-KqUF-MU/default.jpg",
+            "url": "https://i.ytimg.com/vi/jejLBWMsyHk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/x_k-KqUF-MU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/jejLBWMsyHk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/x_k-KqUF-MU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/jejLBWMsyHk/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Sickos",
+        "channelTitle": "영국남자 Korean Englishman",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-30T22:03:28Z"
+        "publishTime": "2022-07-27T13:28:04Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "TMSMlwY0_f5fNXFV6EqAeqNl3wk",
-      "id": {
-        "kind": "youtube#channel",
-        "channelId": "UCKo-NbWOxnxBnU41b-AoKeA"
-      },
-      "snippet": {
-        "publishedAt": "2005-11-02T06:29:47Z",
-        "channelId": "UCKo-NbWOxnxBnU41b-AoKeA",
-        "title": "SURFER",
-        "description": "We founded SURFER Magazine with a mission: to bring our readers a slice of the entire surfing world with each issue. And for ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://yt3.ggpht.com/ytc/APkrFKZ-np-yARBgheBv4Ftp-JmKtBCGn-R9xRkQYzybVKw=s88-c-k-c0xffffffff-no-rj-mo"
-          },
-          "medium": {
-            "url": "https://yt3.ggpht.com/ytc/APkrFKZ-np-yARBgheBv4Ftp-JmKtBCGn-R9xRkQYzybVKw=s240-c-k-c0xffffffff-no-rj-mo"
-          },
-          "high": {
-            "url": "https://yt3.ggpht.com/ytc/APkrFKZ-np-yARBgheBv4Ftp-JmKtBCGn-R9xRkQYzybVKw=s800-c-k-c0xffffffff-no-rj-mo"
-          }
-        },
-        "channelTitle": "SURFER",
-        "liveBroadcastContent": "upcoming",
-        "publishTime": "2005-11-02T06:29:47Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "19Ec73GRjf3JZ83_vZvXQAY_lL4",
+      "etag": "QUOydUauRWhJhZ_1YBT7uIpreM8",
       "id": {
         "kind": "youtube#video",
-        "videoId": "c5fAq2-7QU8"
+        "videoId": "4usmpuMP7R4"
       },
       "snippet": {
-        "publishedAt": "2023-09-16T11:00:34Z",
-        "channelId": "UCzcQOTuXYGuCvTekySb_CeQ",
-        "title": "August Long Edition - Bali 2023",
-        "description": "Without many solid days and a resurgent trade wind, Uluwatu and Canggu dominat the August long edition. There were a few ...",
+        "publishedAt": "2022-09-23T18:17:27Z",
+        "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
+        "title": "U.S. aircraft carrier arrives in South Korea for first time since 2018",
+        "description": "An American aircraft carrier has arrived in South Korea for the first time in almost five years. The U.S. and South Korean navies will ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/c5fAq2-7QU8/default.jpg",
+            "url": "https://i.ytimg.com/vi/4usmpuMP7R4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/c5fAq2-7QU8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4usmpuMP7R4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/c5fAq2-7QU8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4usmpuMP7R4/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Surfers of Bali",
+        "channelTitle": "CBS News",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-16T11:00:34Z"
+        "publishTime": "2022-09-23T18:17:27Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "cneL0zPkyef8042OmLdF2CL1J0k",
+      "etag": "l8khr7AUrmkyRXFla0D5kQShrp0",
       "id": {
         "kind": "youtube#video",
-        "videoId": "sM6tDiOsSOo"
+        "videoId": "o70MzTHHNbI"
       },
       "snippet": {
-        "publishedAt": "2023-06-23T18:00:32Z",
-        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
-        "title": "KAI LENNY Surfs in Final Round of THE EDDIE!",
-        "description": "Kai Lenny chases his big wave dream of a title at The Eddie Aikau Big Wave Invitational before switching gears to compete ...",
+        "publishedAt": "2018-10-22T18:59:58Z",
+        "channelId": "UCFMkPeE8jiPirJMv9kttuIg",
+        "title": "Seoul South Korea 4K .City - Sights - People",
+        "description": "Lets take a tour to Seoul South Korea. One of the largest cities in the world renowned for its architecture, technical advancements ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/sM6tDiOsSOo/default.jpg",
+            "url": "https://i.ytimg.com/vi/o70MzTHHNbI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/sM6tDiOsSOo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/o70MzTHHNbI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/sM6tDiOsSOo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/o70MzTHHNbI/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Red Bull Surfing",
+        "channelTitle": "CoolVision",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-06-23T18:00:32Z"
+        "publishTime": "2018-10-22T18:59:58Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "uD4YHeI1sgu2O0aoXn3ExmBkBsw",
+      "etag": "DIgkkmzdS-cUUr86ruCcsXgRG6M",
       "id": {
         "kind": "youtube#video",
-        "videoId": "DoZvCWXYWa4"
+        "videoId": "P2lhXFe8C1k"
       },
       "snippet": {
-        "publishedAt": "2023-09-25T19:00:05Z",
-        "channelId": "UCo_q6aOlvPH7M-j_XGWVgXg",
-        "title": "THE BEST WAVE I EVER SURFED IN CALIFORNIA!",
-        "description": "STAY PSYCHED MERCHANDISE: https://staypsyched.com - JAMIE O'BRIEN SURF SCHOOL: ...",
+        "publishedAt": "2022-09-24T07:50:00Z",
+        "channelId": "UCxHoBXkY88Tb8z1Ssj6CWsQ",
+        "title": "যৌথ সামরিক মহড়ায় দক্ষিণ কোরিয়া-যুক্তরাষ্ট্র | USA | South Korea | North Korea | Somoy TV",
+        "description": "jointexercises #usaandsouthkorea #usa #USaircraft #southkorea #northkorea #somoytv The United States is going to conduct ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/DoZvCWXYWa4/default.jpg",
+            "url": "https://i.ytimg.com/vi/P2lhXFe8C1k/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/DoZvCWXYWa4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/P2lhXFe8C1k/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/DoZvCWXYWa4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/P2lhXFe8C1k/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Jamie O'Brien",
+        "channelTitle": "SOMOY TV",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-25T19:00:05Z"
+        "publishTime": "2022-09-24T07:50:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "I96kqO82NKhBQ5FSFY8t9EoA1VY",
+      "etag": "N6qCh0kjYbXxXqUHIP2huk-Qync",
       "id": {
         "kind": "youtube#video",
-        "videoId": "lmzOYBu_huA"
+        "videoId": "0YZxpzrANXM"
       },
       "snippet": {
-        "publishedAt": "2023-10-02T18:51:40Z",
-        "channelId": "UCLdPicN16eAKPKir8EY1UXQ",
-        "title": "What Nicaragua is REALLY Like | Surf Film",
-        "description": "This surf film is about Nicaragua. I've come on retreat to here with a bunch of my students and we've had a glorious time exploring ...",
+        "publishedAt": "2022-09-09T09:33:00Z",
+        "channelId": "UCtyltqstMm6iKnkk2Y9Zt8A",
+        "title": "We went to KOREA to meet BTS 💜 Staying at KOREA&#39;S First Robot Hotel",
+        "description": "ROBOTS, TECHNOLOGY AUR BHOT SARA DHAMAAL #KOREA SUBSCRIBE!!! . . Read my travel stories: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/lmzOYBu_huA/default.jpg",
+            "url": "https://i.ytimg.com/vi/0YZxpzrANXM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/lmzOYBu_huA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0YZxpzrANXM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/lmzOYBu_huA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0YZxpzrANXM/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Kale Brock",
+        "channelTitle": "Wanderers Hub",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-10-02T18:51:40Z"
+        "publishTime": "2022-09-09T09:33:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "apMr8L91UD-nCpkRQ0ldmN-9jLE",
+      "etag": "36aoMmq9pwSNJc9UVSAIqhkwLc4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "lLETx3kYsYA"
+        "videoId": "Wfu846Gb6Vk"
       },
       "snippet": {
-        "publishedAt": "2023-09-01T19:00:09Z",
-        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
-        "title": "KAI LENNY&#39;s 24-Hour Strike Mission to TAHITI",
-        "description": "Kai Lenny takes off on a 24-hour strike mission for a tow swell in Tahiti and pushes the limits of what's possible on a surfboard ...",
+        "publishedAt": "2022-09-23T13:30:08Z",
+        "channelId": "UCttQf1sGLn5wZaaqoHam1-w",
+        "title": "The First Ever Safari Zone in South Korea is INSANE, BECAUSE... - Pokemon GO",
+        "description": "After not being able to attend any in-person events for over 2 years, finally this is not just the first Safari Zone to happen in South ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/lLETx3kYsYA/default.jpg",
+            "url": "https://i.ytimg.com/vi/Wfu846Gb6Vk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/lLETx3kYsYA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Wfu846Gb6Vk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/lLETx3kYsYA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Wfu846Gb6Vk/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Red Bull Surfing",
+        "channelTitle": "BrandonTan91",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-01T19:00:09Z"
+        "publishTime": "2022-09-23T13:30:08Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "wz1XEdmsX0HhOtZHpqvihNdUEHY",
+      "etag": "m17Pfamo3CmEYNqg7OyGhtrf8Cg",
       "id": {
         "kind": "youtube#video",
-        "videoId": "idszCaHgzKc"
+        "videoId": "gwzO4fPkDEk"
       },
       "snippet": {
-        "publishedAt": "2023-09-18T19:00:16Z",
-        "channelId": "UCo_q6aOlvPH7M-j_XGWVgXg",
-        "title": "THE MOST DANGEROUS SURF SPOT ON THE SOUTH SHORE (OAHU)",
-        "description": "STAY PSYCHED MERCHANDISE: https://staypsyched.com - JAMIE O'BRIEN SURF SCHOOL: ...",
+        "publishedAt": "2022-09-23T14:14:56Z",
+        "channelId": "UC5klUqmlo9G8U5iaQ53ogIA",
+        "title": "Announcing my new album, and arriving in South Korea",
+        "description": "It's my first time in South Korea and I'm absolutely loving it. I also announced my new album Future eForever in this video. If you'd ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/idszCaHgzKc/default.jpg",
+            "url": "https://i.ytimg.com/vi/gwzO4fPkDEk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/idszCaHgzKc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gwzO4fPkDEk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/idszCaHgzKc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gwzO4fPkDEk/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Jamie O'Brien",
+        "channelTitle": "Jonathan Ogden",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-09-18T19:00:16Z"
+        "publishTime": "2022-09-23T14:14:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3DXONSxKDfA-3Yzj9QeyGmz_fb8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x6AHuxqt1U0"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-22T02:00:09Z",
+        "channelId": "UCNrRJm0gWx69f8Ybdnsi23A",
+        "title": "shopping in korea vlog 🇰🇷 shoes &amp; accessories haul from Gotomall Underground Shopping Center",
+        "description": "come shopping with me! shoes & accessories haul from Gotomall Underground shopping center in Seoul. 고투몰 지하 상가 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x6AHuxqt1U0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x6AHuxqt1U0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x6AHuxqt1U0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "sassyinkorea",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-22T02:00:09Z"
       }
     }
   ]
