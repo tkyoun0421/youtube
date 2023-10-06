@@ -2,28 +2,29 @@ import React from 'react';
 import { useQuery } from 'react-query';
 import { useParams } from 'react-router-dom';
 import VideoCard from '../components/VideoCard';
-import axios from 'axios';
-
+import FakeYoutube from '../api/fakeYoutube';
 export default function Videos() {
   const { keyword } = useParams();
   const {
     isLoading,
     error,
     data: videos,
-  } = useQuery(['videos', keyword], async () => {
-    return axios
-      .get(`/videos/${keyword ? 'search' : 'popular'}.json`)
-      .then((res) => res.data.item);
+  } = useQuery(['videos', keyword], () => {
+    const youtube = new FakeYoutube();
+    return youtube.search(keyword);
   });
+
   return (
     <>
-      <div>Videos {keyword ? `${keyword}` : `hot trend`}</div>;
+      <div>Videos {keyword ? `${keyword}` : `hot trend`}</div>
       {isLoading && <p>Loading...</p>}
       {error && <p>Something is wrong</p>}
       {videos && (
         <ul>
           {videos.map((video) => (
-            <VideoCard key={video.id} video={video} />
+            <li>
+              <VideoCard key={video.id} video={video} />
+            </li>
           ))}
         </ul>
       )}
