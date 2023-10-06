@@ -1,7 +1,32 @@
 import React from 'react';
+import { useQuery } from 'react-query';
 import { useParams } from 'react-router-dom';
+import VideoCard from '../components/VideoCard';
+import axios from 'axios';
 
 export default function Videos() {
   const { keyword } = useParams();
-  return <div>Videos {keyword ? `${keyword}` : `hot trend`}</div>;
+  const {
+    isLoading,
+    error,
+    data: videos,
+  } = useQuery(['videos', keyword], async () => {
+    return axios
+      .get(`/videos/${keyword ? 'search' : 'popular'}.json`)
+      .then((res) => res.data.item);
+  });
+  return (
+    <>
+      <div>Videos {keyword ? `${keyword}` : `hot trend`}</div>;
+      {isLoading && <p>Loading...</p>}
+      {error && <p>Something is wrong</p>}
+      {videos && (
+        <ul>
+          {videos.map((video) => (
+            <VideoCard key={video.id} video={video} />
+          ))}
+        </ul>
+      )}
+    </>
+  );
 }
