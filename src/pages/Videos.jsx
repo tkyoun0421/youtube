@@ -21,9 +21,7 @@ export default function Videos() {
       {videos && (
         <ul>
           {videos.map((video) => (
-            <li>
-              <VideoCard key={video.id} video={video} />
-            </li>
+            <VideoCard key={video.id} video={video} />
           ))}
         </ul>
       )}
